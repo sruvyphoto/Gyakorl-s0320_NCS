@@ -1,1 +1,1 @@
-# Gyakorl-s0320_NCS
+# HTML fájl létrehozva
