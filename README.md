@@ -1,1 +1,1 @@
-# HTML fájl létrehozva
+# Rácsrendszer kialakítva
